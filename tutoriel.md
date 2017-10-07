@@ -1,6 +1,24 @@
+Tutoriel en anglais : http://global.survey.okfn.org/tutorial/ 
+Vidéo / Tutoriel de 6 min sur chaque étape : https://www.youtube.com/embed/w32jJvbewkk 
+
+Remarques sur le tutoriel existant : 
+- **Le message d'encouragement au début** "Do not be afraid to make mistakes; a global community of contributors past and present are here to help you out every step of the way in the Open Data index forum :-)" 
+
+- **Il est expliqué le fonctionnement de l'index en général** ( _How does the Index work_ ? ) 
+
+_The index is built on two units — places, that represent national governments or other official jurisdictions, and datasets. In this year’s Index we have 15 datasets representing different aspects of government information. 
+Each dataset has a description and a list of ‘dataset characteristics’. The characteristics describe what information a dataset has to contain to be assessed by the the Index.
+
+_Each of these datasets are first evaluated by the contributor (that is you) answering nine survey questions plus a set of sub-questions. After this process the data is sent for review. We have an expert reviewer for each dataset. This means that reviewers will check the submissions from all countries for a given dataset (e.g. government spending, elections, etc.). After the review stage, we plan to send the Index to governments for commenting. This is done to check for errors that might have come up. The final decision regarding a datasets will be in the reviewer hands. After all of the reviews are completed and the datasets are evaluated by their respective governments, a country’s final score will be shown publicly on the Index website.
+
+- **Chaque section de la partie B est détaillée** :
+
+*B1*. _Are the data collected by the government (or an official third party on behalf of the government)? The Index seeks to measure the publication of open government data. It is therefore important to ensure that your submission refers to data that government is responsible of. A submission is only valid if the government is responsible for producing, managing or publishing the submitted dataset. To find evidence, you can look for a disclaimer on a website that data is produced by government, call a government official, or google the government agency that is most likely to hold/collect the data_ 
+
+
 # Comment Contribuer ?
 
-Il existe une plateforme accessible et maintenue par le réseau Open Knowledge qui recueille l’ensemble des informations qui concernent les indicateurs listés plus haut.
+Il existe une plateforme accessible et maintenue par l'organisation Open Knowledge International qui recueille l’ensemble des informations qui concernent les indicateurs listés plus haut.
 
 Pour contribuer, il faut aller à l’adresse http://global-test.survey.okfn.org: 
 
