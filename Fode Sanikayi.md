@@ -1,2 +1,0 @@
-# Fode Sanikayi Kouyate
-## Guinée
