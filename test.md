@@ -13,4 +13,10 @@ Liste
 - item A
 - item B
 
+Pour le CSS, penser à importer Droid serif avec :
+
+`@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);`
+
+
+
 [La liste des balises Markdown de base.](https://guides.github.com/features/mastering-markdown/)
