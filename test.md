@@ -28,7 +28,5 @@ Markdown | HTML
 *content* | <em>content</em>
 **content** | <strong>content</strong>
 
-![Le formateur](/img/SylvainODMedias2.jpg)
-
 
 [La liste des balises Markdown de base.](https://guides.github.com/features/mastering-markdown/)
