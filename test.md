@@ -2,6 +2,7 @@
 ## Titre 2
 ### Titre 3
 
+![ODMédias, c'est du sérieux !](OpenRefineSN.png)
 
 *ital* **gras**
 
