@@ -5,7 +5,7 @@ Dans le cadre du programme Open Data Médias 2 de CFI Médias, les participants 
 
 ### Atelier #1
 Le premier atelier s'est déroulé dans le cadre de la session de formation d'Open Data Médias 2 à Abidjan (2-11/10/2017).   
-Présentation : 
+Retrouvez les [slides de la présentation ici](https://github.com/datactivist/OpenDataMedias2/blob/master/GODI/Formation%20GODI%20-%20Open%20Data%20Media%202%20(1).pdf). 
 
 # Données de référence
 
