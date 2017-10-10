@@ -1,16 +1,16 @@
-Election Results
-Company Register
-National Statistics
-Land Ownership
+Election Results  
+Company Register  
+National Statistics  
+Land Ownership  
 Pollutant Emissions
-Water Quality
-Weather Forecast
-Government Budget
-Government Spending
-Procurement
-National Maps
-Locations
+Water Quality  
+Weather Forecast  
+Government Budget  
+Government Spending  
+Procurement  
+National Maps  
+Locations  
 Administrative Boundaries
-National Laws
-Draft Legislation
+National Laws  
+Draft Legislation  
 
