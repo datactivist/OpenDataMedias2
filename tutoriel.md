@@ -7,7 +7,9 @@ Remarques sur le tutoriel existant :
 - **Il est expliqué le fonctionnement de l'index en général** ( _How does the Index work_ ? ) 
 
 _The index is built on two units — places, that represent national governments or other official jurisdictions, and datasets. In this year’s Index we have 15 datasets representing different aspects of government information. 
-Each dataset has a description and a list of ‘dataset characteristics’. The characteristics describe what information a dataset has to contain to be assessed by the the Index_ .
+Each dataset has a description and a list of ‘dataset characteristics’. The characteristics describe what information a dataset has to contain to be assessed by the the Index_
+
+_cet index est bati sur deux éléments. Les lieux qui representent les gouvernementales nationaux ainsi que les juridictions/organismes officiels, et des ensembles de jeux de données. Pour cette année, nous il existe 15 jeux de données répresentant différents aspects de l'information gouvernementale. Chaque jeux de données à une description et une liste de "jeux de données caractéristiques". Les caractéristiques decrivent comment l'information contenu dans un jeu de donnée est évaluée par l'index_
 
 _Each of these datasets are first evaluated by the contributor (that is you) answering nine survey questions plus a set of sub-questions. After this process the data is sent for review. We have an expert reviewer for each dataset. This means that reviewers will check the submissions from all countries for a given dataset (e.g. government spending, elections, etc.). After the review stage, we plan to send the Index to governments for commenting. This is done to check for errors that might have come up. The final decision regarding a datasets will be in the reviewer hands. After all of the reviews are completed and the datasets are evaluated by their respective governments, a country’s final score will be shown publicly on the Index website_ .
 
