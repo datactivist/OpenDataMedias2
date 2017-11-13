@@ -41,6 +41,18 @@ _B8. In which formats are the data? Tell us the file formats of the data. We aut
 
 _B9. Please provide an assessment of how easily the data are usable without human effort. Select 1 if extensive effort is required to make data usable, select 2 if some effort is required and select 3 if little to no effort is required. Data may be in a machine-readable format like an .xls spreadsheet. But they might contain unstructured information (like notes randomly written in a column). Such data often has to be cleaned to become usable. Tell us the effort it takes for you to use the data. Base your assessment on the question whether the data are fit for your use cases. Document any relevant feedback on usability in the comment section.
 
+_Commenting on a submission
+
+The Index allows only one submission per one dataset. However, you can still help by commenting on a current submission and propose changes by creating a new topic in our www.discuss.okfn.org forum. Leaving detailed notes in the comment field supports the review process, too.
+
+_Here are some tips for leaving helpful comments:
+
+_If you’ve determined that a particular dataset is not collected by government, let us know where you found evidence (and what else led you to believe that it isn’t collected by government). If the dataset is not available online without restrictions to access, let us know how one could get a hold of the data, if at all. If the data is only available through a freedom of information request (FOIA), give us an indication of what is involved in making that request.
+
+_Leave comments on the availability of dataset characteristics, and whether only some parts of them are open. Where do you find the data? Do you have to enter different websites? Is it hard for you to find the data? Tell us more about the parts of the dataset you can download: is all data readily downloadable? Is some data published online, but not downloadable? Do you face barriers that prevent you from easily downloading all the required data? If you are unsure as to whether a license is open or not, answer “No” and indicate why in the comments field. Also document which legislation tells you more about the public domain status of the data. Is the public domain status clear to you? If not, why? Include information and/or links to licenses or terms of use pages so the reviewer can quickly make a second assessment.
+
+_If you are unsure whether or not a file type is machine readable or not, mark “No” as an answer and explain your rationale in the comment section. Let us know why you think the data is either made available in a timely manner or not. It is important for us to understand the local context as much as possible. For example, different places have different legislative and governmental spending cycles resulting in differences when spending data counts as up-to-date. Such information is invaluable help for us_.
+
 
 
 # Comment Contribuer ? ( ce qui a été fait pendant la journée de formation GODI ) 
@@ -62,7 +74,7 @@ Pour renseigner l'index, il est important de:
 1. S’assurer de l’existence des données que l’on veut renseigner
 2. disposer des liens de la donnée qu’on veut renseigner 
 
-1 -  Aller sur le site  ( _lequel_ ? )        
+1 -  Aller sur le site: http://global-test.survey.okfn.org/        
         
 2 -  Créer votre compte ( _comment_ ? )
 
