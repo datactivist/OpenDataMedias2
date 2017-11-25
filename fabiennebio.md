@@ -1,3 +1,3 @@
 # Presentation
 
-Datactivist à Madagascar
+Datactiviste à Madagascar. (Association Maidi)
