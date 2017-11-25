@@ -7,4 +7,4 @@ Vous pouvez aussi me joindre sur les réseaux sociaux :
 [ LinkedIn ](https://www.linkedin.com/in/richard-folly-0430a885)
 <br/>[ Twitter ](twitter.com/richardfolly1)
 <br/>[ Instagram ](instagram.com/richardfolly)
-<br/>[ Facebook ](<a href="https://www.facebook.com/komlan.r.folly"</a>)
+<br/>[ Facebook ](href="https://www.facebook.com/komlan.r.folly)
