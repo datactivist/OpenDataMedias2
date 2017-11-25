@@ -11,9 +11,9 @@ Reagrder par ici http://github.com/
 
 **Gras** = ** teste **
 
-_italique_  = _ italique _
+_italique_  = _italique _
 
-[lien vers github] (http://github.com/)
+[lien vers github](http://github.com/)
 
 
 A noter que les texte dout être collé, sauf pour le titre en gras où il y a de l'espace entre #et le texte
