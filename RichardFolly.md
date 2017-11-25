@@ -5,6 +5,6 @@ Je suis passionné de la data et des technologies spatiales.
 Vous pouvez aussi me joindre sur les réseaux sociaux :
 
 [ LinkedIn ](https://www.linkedin.com/in/richard-folly-0430a885)
-[ Twitter ](twitter.com/richardfolly1)
-[ Instagram ](instagram.com/richardfolly)
-[ Facebook ](https://www.facebook.com/komlan.r.folly)
+<br/>[ Twitter ](twitter.com/richardfolly1)
+<br/>[ Instagram ](instagram.com/richardfolly)
+<br/>[ Facebook ](https://www.facebook.com/komlan.r.folly)
