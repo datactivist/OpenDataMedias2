@@ -7,3 +7,6 @@ Vous pouvez aussi me joindre sur les réseaux sociaux
 <br/>[ Twitter ](twitter.com/richardfolly1)
 <br/>[ Instagram ](instagram.com/richardfolly)
 <br/>[ Facebook ](https://www.facebook.com/komlan.r.folly)
+
+var md = require('markdown-it')();
+var externalLinks = require('https://www.facebook.com/komlan.r.folly');
