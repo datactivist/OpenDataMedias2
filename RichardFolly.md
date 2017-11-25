@@ -1,6 +1,6 @@
 ## Richard Folly ##
 Je suis passionné de la data et des technologies spatiales.
-[ Lisez cet article en Anglais: ](servirglobal.net/Global/Articles/Article/2576/servir-and-sport-hosting-mandela-washington-fellowship-for-young-african-leader)
+[ Lisez cet article en Anglais : ](servirglobal.net/Global/Articles/Article/2576/servir-and-sport-hosting-mandela-washington-fellowship-for-young-african-leader)
 
 Vous pouvez aussi me joindre sur les réseaux sociaux :
 
