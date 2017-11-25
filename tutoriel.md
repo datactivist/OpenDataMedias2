@@ -1,20 +1,82 @@
-Tutoriel en anglais : http://global.survey.okfn.org/tutorial/   
-Vidéo / Tutoriel de 6 min sur chaque étape : https://www.youtube.com/embed/w32jJvbewkk 
+---
+layout: default
+Title : Tutoriel Global Open Data Index
+---
+
+# Tutoriel en Français
+
+## Comment Contribuer ? ( ce qui a été fait pendant la 1ère journée de formation GODI ) 
+
+Il existe une plateforme accessible et maintenue par l'organisation Open Knowledge International qui recueille l’ensemble des informations qui concernent les indicateurs listés plus haut.
+
+Pour contribuer, il faut aller à l’adresse http://global-test.survey.okfn.org: 
+
+Les étapes de la contribution :
+
+1. S’authentifier sur la plateforme en cliquant sur le bouton « s’inscrire » (attention authentification uniquement par gmail ou Fb pour l’instant)
+2. Sélectionner le pays et le/les indicateurs à renseigner  
+
+
+## Démarche pour renseigner l’index/Comment Contribuer 
+
+Pour renseigner l'index, il est important de:
+
+1. S’assurer de l’existence des données que l’on veut renseigner
+2. disposer des liens de la donnée qu’on veut renseigner 
+
+1 -  Aller sur le site: http://global-test.survey.okfn.org/        
+        
+2 -  Créer votre compte ( _comment_ ? )
+
+3 - Choisir votre pays ( _où_ ? _dans la liste_ ? _Copie d'écran_ ? _comment fait-on pour trouver son pays_ ? _il y a-t-il un petit champ de recherche_ ? _par scroll_ ? )
+        
+4 - Choisir l’indicateur à renseigner ( _copie d'écran_ ) 
+Cliquer sur le bouton de la cellule du jeux de données   
+Une fênêtre s'ouvre. Commener à répondre aux questions
+
+5 - Renseigner les sections A et B ( _quelles sont-elles_ ? _Comment les décrire_ ? ) 
+
+6 - Cliquer sur le bouton soumettre
+!! --> Remarquez que sur votre droite, vous avez toujours la possibilité de commenter la question à laquelle vous repondez.
+
+7 - En principe quand vous revenez à la page de l'index, vous verez un chiffre apparaître sur la cellule que vous avez complété jusqu'à ce que cela soit validé suite à une revue :) !
+
+*Question* : que se passe-t-il quand on a soumis un jeu de données mais qu'on s'aperçoit qu'on a fait une erreur ? Comment rectifier cette erreur ? 
+
+
+### Tutoriels existants
+ 
+[Tutoriel en anglais](http://global.survey.okfn.org/tutorial/)   
+Vidéo : [Tutoriel de 6 min sur chaque étape](https://www.youtube.com/embed/w32jJvbewkk)    
 
 Remarques sur le tutoriel existant : 
-- **Le message d'encouragement au début** "Do not be afraid to make mistakes; a global community of contributors past and present are here to help you out every step of the way in the Open Data index forum :-)" 
 
-- **Il est expliqué le fonctionnement de l'index en général** ( _How does the Index work_ ? ) 
+* **N'ayez pas peur de faire des erreurs !** "Do not be afraid to make mistakes; a global community of contributors past and present are here to help you out every step of the way in the Open Data index forum :-)" 
 
-_The index is built on two units — places, that represent national governments or other official jurisdictions, and datasets. In this year’s Index we have 15 datasets representing different aspects of government information. 
-Each dataset has a description and a list of ‘dataset characteristics’. The characteristics describe what information a dataset has to contain to be assessed by the the Index_
+## Comment fonctionne l'index ? ( _How does the Index work_ ? ) 
+#### Quelle est le processus de participation établi ? 
 
-_cet index est bati sur deux éléments. Les lieux qui representent les gouvernementales nationaux ainsi que les juridictions/organismes officiels, et des ensembles de jeux de données. Pour cette année, nous il existe 15 jeux de données répresentant différents aspects de l'information gouvernementale. Chaque jeux de données à une description et une liste de "jeux de données caractéristiques". Les caractéristiques decrivent comment l'information contenu dans un jeu de donnée est évaluée par l'index_
+L’index de l’Open Data est bâti sur deux éléments principaux : 
+     
+### A - Les pays    
+Ils représentent les gouvernements nationaux ainsi que les juridictions/organismes officiels.     
 
-_Each of these datasets are first evaluated by the contributor (that is you) answering nine survey questions plus a set of sub-questions. After this process the data is sent for review. We have an expert reviewer for each dataset. This means that reviewers will check the submissions from all countries for a given dataset (e.g. government spending, elections, etc.). After the review stage, we plan to send the Index to governments for commenting. This is done to check for errors that might have come up. The final decision regarding a datasets will be in the reviewer hands. After all of the reviews are completed and the datasets are evaluated by their respective governments, a country’s final score will be shown publicly on the Index website_
+### B - Les jeux de données.     
+Pour cette année, il existe 15 jeux de données dits de référence, qui représentent différents aspects de l'information officielle émise par les gouvernements. Chaque jeu de données contient une description et une liste de "caractéristiques », ou d’indicateurs. L’index se base sur ces indicateurs/caractéristiques pour évaluer chaque thématique. 
 
-_chacun de ces jeux de données est d'abord évalué par le contributeur (c'est-dire-vous) en répondant à 9 questions en plus de sous-questions. Après ce processus, les données/informations sont envoyées pour une revision/relecture. il existe pour chaque jeux de données, des expert. Ce qui signifie que les evaluateurs (reviewers) vérifieront les informations soumises par le contributeurs pour chaque pays et chaque jeux de données(ex: dépenses du gouvernement, les données des élections, etc.). Après cette étape de verification par les experts, les index sont envoyés aux gouvenements des pays pour commentaires. Cela dans le but de chercher et corriger les erreurs qui auraient pu être commises. La décision finale revient aux relecteur. Après l'ensemble des revisions/relectures, et que les jeux de données sont évalués par le gouvernement du pays concernés, le score final du pays est pourra être publié sur le site web de l'index_.
+Exemple : Les caractéristiques qui valideront la thématique des statistiques nationales sont : la publication du PIB, du taux de chômage et du recensement de la population.       
 
+Chaque jeu de données est d'abord évalué par le contributeur qui les soumet (c’est-dire-vous) en répondant à 9 questions en plus de sous-questions.      
+Après avoir répondu au questionnaire pour chaque thématique, les données/informations sont envoyées pour une revision/relecture à un ensemble d’expert.e.s sélectionné.e.s par l’organisation Open Knowledge International. 
+Un.e expert.e est responsable d’une thématique. 
+Cela signifie que les évaluateurs/trices (reviewers) vérifieront les informations soumises par les contributeurs/trices, pour chaque pays et pour chaque jeux de données(ex: dépenses du gouvernement, données électorales, etc.). 
+
+
+Après cette étape de verification par les experts, les index sont envoyés aux gouvenements des pays pour commentaires. (_par qui_ ?) 
+Cela est mis en place dans le but de pouvoir corriger des erreurs qui auraient pu être commises ou d’ouvrir le dialogue avec les autorités et le gouvernement. La décision finale de publier ou pas revient aux expert.e.s des thématiques. 
+
+
+Après l'ensemble des révisions/relectures, et l’évaluation des données par les autorités de chaque pays,  , le score final du pays est pourra être publié sur le site web de l'index.
 
 
 - **Chaque section de la partie B est détaillée** :
@@ -56,43 +118,3 @@ _If you’ve determined that a particular dataset is not collected by government
 _Leave comments on the availability of dataset characteristics, and whether only some parts of them are open. Where do you find the data? Do you have to enter different websites? Is it hard for you to find the data? Tell us more about the parts of the dataset you can download: is all data readily downloadable? Is some data published online, but not downloadable? Do you face barriers that prevent you from easily downloading all the required data? If you are unsure as to whether a license is open or not, answer “No” and indicate why in the comments field. Also document which legislation tells you more about the public domain status of the data. Is the public domain status clear to you? If not, why? Include information and/or links to licenses or terms of use pages so the reviewer can quickly make a second assessment.
 
 _If you are unsure whether or not a file type is machine readable or not, mark “No” as an answer and explain your rationale in the comment section. Let us know why you think the data is either made available in a timely manner or not. It is important for us to understand the local context as much as possible. For example, different places have different legislative and governmental spending cycles resulting in differences when spending data counts as up-to-date. Such information is invaluable help for us_.
-
-
-
-# Comment Contribuer ? ( ce qui a été fait pendant la journée de formation GODI ) 
-
-Il existe une plateforme accessible et maintenue par l'organisation Open Knowledge International qui recueille l’ensemble des informations qui concernent les indicateurs listés plus haut.
-
-Pour contribuer, il faut aller à l’adresse http://global-test.survey.okfn.org: 
-
-Les étapes de la contribution :
-
-1. S’authentifier sur la plateforme en cliquant sur le bouton « s’inscrire » (attention authentification uniquement par gmail ou Fb pour l’instant)
-2. Sélectionner le pays et le/les indicateurs à renseigner : 
-
-
-## Démarche pour renseigner l’index/Comment Contribuer 
-
-Pour renseigner l'index, il est important de:
-
-1. S’assurer de l’existence des données que l’on veut renseigner
-2. disposer des liens de la donnée qu’on veut renseigner 
-
-1 -  Aller sur le site: http://global-test.survey.okfn.org/        
-        
-2 -  Créer votre compte ( _comment_ ? )
-
-3 - Choisir votre pays ( _où_ ? _dans la liste_ ? _Copie d'écran_ ? _comment fait-on pour trouver son pays_ ? _il y a-t-il un petit champ de recherche_ ? _par scroll_ ? )
-        
-4 - Choisir l’indicateur à renseigner ( _copie d'écran_ ) 
-Cliquer sur le bouton de la cellule du jeux de données   
-Une fênêtre s'ouvre. Commener à répondre aux questions
-
-5 - Renseigner les sections A et B ( _quelles sont-elles_ ? _Comment les décrire_ ? ) 
-
-6 - Cliquer sur le bouton soumettre
-!! --> Remarquez que sur votre droite, vous avez toujours la possibilité de commenter la question à laquelle vous repondez.
-
-7 - En principe quand vous revenez à la page de l'index, vous verez un chiffre apparaître sur la cellule que vous avez complété jusqu'à ce que cela soit validé suite à une revue :) !
-
-*Question* : que se passe-t-il quand on a soumis un jeu de données mais qu'on s'aperçoit qu'on a fait une erreur ? Comment rectifier cette erreur ? 
