@@ -29,7 +29,7 @@ _B3. Please confirm that the following characteristics are present in the data p
 
 _If you are unsure whether a part is contained in the dataset or not, ask the Open Data Index forum.
 
-_B4. Is the data available free of charge? The data is free if you don’t have to pay for it.
+_B4. Les données sont-elles disponibles gratuitement? Les données sont gratuites si vous n'avez pas à payer pour cela.
 
 _B5. Is the dataset downloadable at once? This question measures whether you can download all information on your computer with easy steps. Downloads can be organised by month or year or broken down into sub­files for very large data files. It is important that the download is feasible in a few easy steps. Answer “No” if if you have to do many manual steps to download the data, or if you can only retrieve very few parts of a large dataset at a time (for instance through a search interface).
 
