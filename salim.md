@@ -1,3 +1,4 @@
-# Titre 1
-## Titre 2
-[Le lien de mon blog](http://lacoquette.mondoblog.org)
+# Open Data Medias 2 (#ODMedias)
+## Session du groupe2
+* Initiation à GitHub
+Pour en savoir plus, [RDV sur mon blog](http://lacoquette.mondoblog.org)
