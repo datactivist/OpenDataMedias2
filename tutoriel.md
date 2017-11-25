@@ -21,7 +21,11 @@ _chacun de ces jeux de données est d'abord évalué par le contributeur (c'est-
 
 *B1*. _Are the data collected by the government (or an official third party on behalf of the government)? The Index seeks to measure the publication of open government data. It is therefore important to ensure that your submission refers to data that government is responsible of. A submission is only valid if the government is responsible for producing, managing or publishing the submitted dataset. To find evidence, you can look for a disclaimer on a website that data is produced by government, call a government official, or google the government agency that is most likely to hold/collect the data_ 
 
+_Les données sont-elles collectées par le gouvernement (ou une tierce partie pour le compte du gouvernement) ? L'Index cherche à mesurer la publication de données gouvernementales ouvertes. Il est donc important de s'assurer que votre soumission se réfère à des données dont est responsable le gouvernement. Une soumission n'est valide que si le gouvernement est responsable de la production, la gestion ou la publication des jeux de données soumis. Pour trouver des indices, vous pouvez rechercher une clause de non-responsabilité (démenti) sur un site web dont les données sont produites par le gouvernement, appeler un représentant du gouvernement ou googler l'agence du gouvernement qui est la plus susceptible de détenir/collecter les données_
+
 _B2. Are the data available online without the need to register or request access to the data? This question measures if the data are accessible online from government without mandatory bureaucratic barriers. It is important that no such barriers exist because they can deter people from accessing data. Answer “Yes”, if the data are made available by the government on a public website. Answer “No” if the data are NOT available online or are available online only after registering, requesting the data from a civil servant via email, completing a contact form or another similar administrative process. The Index will allow you to answer this question with “Yes” even if you do not find all necessary dataset characteristics (see B3) online. Your submission is important information about the availability of these characteristics. Your submission data will be stored and processed for a final research report. In a review phase our reviewers will verify your submission again. If not all characteristics are available online, they will answer question B2 with “No”. For more details see our methodology page.
+
+_
 
 _B2.2 Where did you find the data? This question evaluates whether the dataset is stored centrally or across several websites and sub-pages. The question where data is published is important to address the issue of data findability. Tell us the different websites, as well as sub-pages on a website (if applicable) where you found single dataset characteristics. If you find the same information on several websites and sub-pages, only document those that enable you to answer the following questions with “Yes”.
 
@@ -29,7 +33,7 @@ _B3. Please confirm that the following characteristics are present in the data p
 
 _If you are unsure whether a part is contained in the dataset or not, ask the Open Data Index forum.
 
-_B4. Les données sont-elles disponibles gratuitement? Les données sont gratuites si vous n'avez pas à payer pour cela.
+_B4. Is the data available free of charge? The data is free if you don’t have to pay for it.
 
 _B5. Is the dataset downloadable at once? This question measures whether you can download all information on your computer with easy steps. Downloads can be organised by month or year or broken down into sub­files for very large data files. It is important that the download is feasible in a few easy steps. Answer “No” if if you have to do many manual steps to download the data, or if you can only retrieve very few parts of a large dataset at a time (for instance through a search interface).
 
