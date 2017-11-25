@@ -16,4 +16,4 @@ _italique_  = _italique _
 [lien vers github](http://github.com/)
 
 
-A noter que les texte dout être collé, sauf pour le titre en gras où il y a de l'espace entre #et le texte
+A noter que les textes doivent être collés, sauf pour le titre en gras où il y a de l'espace entre #et le texte
