@@ -1,3 +1,3 @@
 # Presentation
 
-Datactiviste à Madagascar. (Association Maidi)
+Open Data activiste - Madagascar. (Association Maidi)
