@@ -1,7 +1,5 @@
 ## Richard Folly ##
-Je suis passionné de l'analyse de données et des technologies spatiales entre autres la Télédétection & les Systèmes d'Informations Géographique (SIG), avec un focus sur la Gestion de Risques et Catastrophes.
-
-[ Lisez cet article en Anglais ](servirglobal.net/Global/Articles/Article/2576/servir-and-sport-hosting-mandela-washington-fellowship-for-young-african-leader)
+Je suis passionné de l'analyse de données et des technologies spatiales entre autres la Télédétection & les Systèmes d'Informations Géographique (SIG), avec un focus sur la Gestion de Risques et Catastrophes. [ Lisez cet article en Anglais. ](servirglobal.net/Global/Articles/Article/2576/servir-and-sport-hosting-mandela-washington-fellowship-for-young-african-leader)
 
 Vous pouvez aussi me joindre sur les réseaux sociaux
 
