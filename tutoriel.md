@@ -44,8 +44,8 @@ Une fênêtre s'ouvre. Commener à répondre aux questions
 *Question* : que se passe-t-il quand on a soumis un jeu de données mais qu'on s'aperçoit qu'on a fait une erreur ? Comment rectifier cette erreur ? 
 
 
-### Traduction du tutoriel officiel qui figure sur le site de l'Index
-#### (N'existe qu'en anglais et espagnol pour l'instant) 
+## Traduction du tutoriel officiel qui figure sur le site de l'Index
+### (N'existe qu'en anglais et espagnol pour l'instant) 
  
 [Tutoriel en anglais](http://global.survey.okfn.org/tutorial/)   
 Vidéo : [Tutoriel de 6 min sur chaque étape](https://www.youtube.com/embed/w32jJvbewkk)    
@@ -54,8 +54,8 @@ Remarque sur le tutoriel existant :
 
 * **N'ayez pas peur de faire des erreurs !** "Do not be afraid to make mistakes; a global community of contributors past and present are here to help you out every step of the way in the Open Data index forum :-)" 
 
-## Comment fonctionne l'index ? ( _How does the Index work_ ? ) 
-#### Quelle est le processus de participation établi ? 
+## Comment fonctionne l'Index ? 
+### Quelle est le processus de participation établi ? 
 
 L’index de l’Open Data est bâti sur deux éléments principaux : 
      
@@ -65,7 +65,7 @@ Ils représentent les gouvernements nationaux ainsi que les juridictions/organis
 ### B - Les jeux de données.     
 En 2017, l'Index comporte 15 jeux de données dits de référence, qui représentent différents une base pour mesurer l'information officielle émise par les gouvernements. Chaque jeu de données contient une description et une liste de "caractéristiques », ou d’indicateurs. L’index se base sur ces indicateurs/caractéristiques pour évaluer chaque thématique. 
 
-Exemple : Les caractéristiques qui valideront la thématique des statistiques nationales sont : la publication du PIB, du taux de chômage et du recensement de la population.       
+Exemple : **Les caractéristiques qui valideront la thématique des statistiques nationales sont : la publication du PIB, du taux de chômage et du recensement de la population.**       
 
 Chaque jeu de données est d'abord évalué par le contributeur qui les soumet (c’est-dire-vous) en répondant à 9 questions en plus de sous-questions.      
 Après avoir répondu au questionnaire pour chaque thématique, les données/informations sont envoyées pour une revision/relecture à un ensemble d’expert.e.s sélectionné.e.s par l’organisation Open Knowledge International. 
@@ -77,7 +77,7 @@ Cela est mis en place dans le but de pouvoir corriger des erreurs qui auraient p
 
 Après l'ensemble des révisions/relectures, et l’évaluation des données par les autorités de chaque pays,  , le score final du pays est pourra être publié sur le site web de l'index.
 
-### Explication de chaque question du formulaire de soumission :
+## Explication de chaque question du formulaire de soumission :
 
 * **B1. Les données sont-elles collectées par le gouvernement (ou une tierce partie pour le compte du gouvernement) ?**           
 L'Index mesure la publication de données gouvernementales ouvertes. Il est donc important de s'assurer que votre soumission se réfère à des données dont est responsable le gouvernement. Une soumission n'est valide que si le gouvernement est responsable de la production, la gestion ou la publication des jeux de données soumis. Pour trouver des indices, vous pouvez rechercher une clause de non-responsabilité (démenti) sur un site web dont les données sont produites par le gouvernement, appeler un représentant du gouvernement ou googler l'agence du gouvernement qui est la plus susceptible de détenir/collecter les données.
