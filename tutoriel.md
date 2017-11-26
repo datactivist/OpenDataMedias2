@@ -3,13 +3,13 @@ layout: default
 Title : Tutoriel Global Open Data Index
 ---
 
-# Tutoriel en Français
+# Tutoriel en Français - Comment contribuer à l'Index Mondial de l'Open Data ? 
 
-## Comment Contribuer ? ( ce qui a été fait pendant la 1ère journée de formation GODI ) 
+## Contexte général 
 
-Il existe une plateforme accessible et maintenue par l'organisation Open Knowledge International qui recueille l’ensemble des informations qui concernent les indicateurs listés plus haut.
+Il existe une plateforme accessible et maintenue par l'organisation Open Knowledge International qui recueille l’ensemble des informations qui concernent les indicateurs des données ouvertes de référence.
 
-Pour contribuer, il faut aller à l’adresse http://global-test.survey.okfn.org: 
+Pour contribuer et soumettre des jeux de données pour son pays, il faut aller à l’adresse http://global-test.survey.okfn.org: 
 
 Les étapes de la contribution :
 
@@ -17,12 +17,12 @@ Les étapes de la contribution :
 2. Sélectionner le pays et le/les indicateurs à renseigner  
 
 
-## Démarche pour renseigner l’index/Comment Contribuer 
+## Pour commencer 
 
 Pour renseigner l'index, il est important de:
 
-1. S’assurer de l’existence des données que l’on veut renseigner
-2. disposer des liens de la donnée qu’on veut renseigner 
+1. S’assurer de l’existence des données que l’on veut renseigner. Cela suppose quelques recherches préalables. 
+2. Disposer des liens de la donnée qu’on veut renseigner.
 
 1 -  Aller sur le site: http://global-test.survey.okfn.org/        
         
@@ -44,7 +44,7 @@ Une fênêtre s'ouvre. Commener à répondre aux questions
 *Question* : que se passe-t-il quand on a soumis un jeu de données mais qu'on s'aperçoit qu'on a fait une erreur ? Comment rectifier cette erreur ? 
 
 
-### Tutoriel officiel sur le site de l'Index
+### Traduction du tutoriel officiel qui figure sur le site de l'Index
 #### (N'existe qu'en anglais et espagnol pour l'instant) 
  
 [Tutoriel en anglais](http://global.survey.okfn.org/tutorial/)   
