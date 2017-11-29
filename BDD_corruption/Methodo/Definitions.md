@@ -1,4 +1,4 @@
-###Définitions:  SOURCES POUR KANEEE
+### Définitions:  SOURCES POUR KANEEE
 
 - La corruption selon Transparency International : https://fr.wikipedia.org/wiki/Corruption
 
@@ -8,7 +8,7 @@ La corruption peut se définir comme l'agissement par lequel une personne invest
 
 Définition **Mauritanie**:  https://www.droit-afrique.com/uploads/Mauritanie-Loi-2016-14-lutte-corruption.pdf
 
-###Variables
+### Variables
 Reprendre les variables de l'exercice de Corruption.
 
 1. Date: date des faits 
@@ -33,15 +33,16 @@ Reprendre les variables de l'exercice de Corruption.
         - Abus de pouvoir
         - Marchés publics 
  
-###Définion des taches
+### Définion des taches
 
-**Dictionnaire des variables**
-#####Corruption : Miss Kané 
-#####Année et Pays : Bazo 
-#####Juridiction & Sanctions: Gaston 
-#####Valeur (nature et espèces): Alfa
-#####Types & victimes: Fodé
-#####sources & domaines: Alex
-#####Les acteurs: Tidiani 
-#####Début & FIn de la procédure: Miss Kané 
+**Dictionnaire des variables**     
+
+##### Corruption : Miss Kané 
+##### Année et Pays : Bazo 
+##### Juridiction & Sanctions: Gaston 
+##### Valeur (nature et espèces): Alfa
+##### Types & victimes: Fodé
+##### sources & domaines: Alex
+##### Les acteurs: Tidiani 
+##### Début & FIn de la procédure: Miss Kané 
 
