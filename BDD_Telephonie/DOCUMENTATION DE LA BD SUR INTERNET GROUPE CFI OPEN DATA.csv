@@ -1,0 +1,11 @@
+Intitulé,Prix,Opérateurs,Opérateur_Groupe,Pays,Limité_Volume,Durée de validité,Limite_Horaire,Debut validité,Fin validité,Crédit permanent,Crédit nuit,Début validité bonus,Fin de validité bonus,Abonnement
+String,Numérique,String,String,String,Booléenne,Numérique,Booléenne,Numérique,Numérique,Numérique,Numérique,Numérique,Numérique,Booléenne
+Dénomination commerciale de l'offre,Euro,Nom commercial,Nom commercial de l'opérateur,Initiale standard du pays. Exemple CMR pour Cameroun,Vrai si c'est limité et Faux si c'est illimité,Durée en heure de la validité du forfait,"Vrai si l'offre a une heure de début et de fin / 
+ Faux si c'est l'offre n'a pas une heure de début et de fin","Heure de début 
+ d'utilisation de l'offre","Heure de fin 
+ d'utilisation de l'offre","Volume de connexion valable à tout 
+ moment dans les limites de la durée de validité","Volume de connexion 
+ valable à une période donnée","Heure de début 
+ d'utilisation du bonus","Heure de fin 
+ d'utilisation du bonus","Vrai si c'est un abonnement (Prepaid) et 
+ Faux si ce n'est pas un abonnement (Postpaid)"
