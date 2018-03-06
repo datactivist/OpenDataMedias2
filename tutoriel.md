@@ -90,6 +90,10 @@ Cette question mesure si les données provenant du gouvernement sont accessibles
 * **B2.2 Where did you find the data?**    
 This question evaluates whether the dataset is stored centrally or across several websites and sub-pages. The question where data is published is important to address the issue of data findability. Tell us the different websites, as well as sub-pages on a website (if applicable) where you found single dataset characteristics. If you find the same information on several websites and sub-pages, only document those that enable you to answer the following questions with “Yes”.
 
+
+* **B2.2 Où avez-vous trouvé la donnée?**
+Cette question évalue si la base de données est stockée sur le serveur ou sur plusieurs sites web et sous-pages. La question ''où la donnée est publiée'' is important pour adresser un problème de sa trouvabilité. Dites-nous les différents sites web aussi bien que les sous-pages sur le site web (si applicable) où vous avez trouvé les caractéristiques d'un jeu de données unique. Si vous trouvez la même information sur plusieurs sites web et sous-pages, documentez seulement ceux qui vous permettent de répondre aux questions suivantes par "oui".
+
 * **B3. Veuillez confirmer que les caractéristiques suivantes sont présentes dans les données publiées en ligne par le gouvernement:**    
 Dites-nous, si vous pouvez trouver toutes les caractéristiques requises du jeu de données en ligne. C'est important pour nous de voir quel type de jeu de données vous évaluez. Si les usagers ne trouvent pas toutes les caractéristiques des données en ligne, qu’ils répondent à toutes les autres questions en se référant aux caractéristiques trouvées. Cette information sera enregistrée pour des recherches. Nos équipes collecteront tous les questionnaires se référant à des jeux de données partielles (ne contenant pas toutes les caractéristiques), et évalueront uniquement les jeux de données contenant toutes les caractéristiques. Toutes les questions suivantes doivent correspondre aux caractéristiques de ces jeux de données. Par exemple: Si vous analysez des données sur les dépenses gouvernementales, vérifiez si la base de données contient le département, l'argent dépensé, la date, le fournisseur, etc. Vérifiez si toutes ces données sont disponibles gratuitement, téléchargeables, etc. Répondez « Non » si les questions ne s'appliquent qu'à certaines caractéristiques et utilisez la section des commentaires pour indiquer les caractéristiques auxquelles elles s'appliquent.
 
@@ -100,6 +104,10 @@ On considère que les données sont gratuites si vous n'avez pas à payer pour y
 
 * **B5. Is the dataset downloadable at once? This question measures whether you can download all information on your computer with easy steps.**      
 Downloads can be organised by month or year or broken down into sub­files for very large data files. It is important that the download is feasible in a few easy steps. Answer “No” if if you have to do many manual steps to download the data, or if you can only retrieve very few parts of a large dataset at a time (for instance through a search interface).
+
+
+* **B5. L’ensemble de données est-il téléchargeable immédiatement?**
+Cette question mesure si vous pouvez télécharger toutes les informations sur votre ordinateur avec des étapes faciles. Les téléchargements peuvent être organisés par mois ou par année ou répartis en sous-fichiers pour les très gros fichiers de données. Il est important que le téléchargement soit réalisable en quelques étapes faciles. Répondez "Non" si vous devez effectuer de nombreuses étapes manuelles pour télécharger les données, ou si vous ne pouvez récupérer que très peu de parties d'un grand ensemble de données à la fois (par exemple via une interface de recherche).
 
 * **B6. Les données doivent être mises à jour tous les [Intervalle de temps]: les données sont-elles actualisées?**     
 Les données ne sont souvent utiles que si elles sont disponibles en temps opportun. Mais des informations différentes devraient être fournies à  des intervalles de temps différents. Les données concernant le trafic doivent être disponibles en temps réel, les données électorales devraient être accessibles immédiatement après une élection, tandis que les informations liées au recensement national pourraient rester les mêmes sur plusieurs années. Cette question évalue si les données sont fournies en temps opportun. Veuillez baser votre réponse sur la date à laquelle vous remplissez ce questionnaire. Parfois, les données vous fournissent une indication sur la date à laquelle elles ont été fournies (par exemple, les prévisions météorologiques se réfèrent à des dates spécifiques). Soyez prudent avec les dates de publication et vérifiez si les données publiées sont réellement actualisées. Répondez « Non » si vous ne pouvez pas déterminer une date ou si les données sont obsolètes.
@@ -114,9 +122,15 @@ Nous les comparons automatiquement à une liste de formats de fichiers considér
 * **B9. Please provide an assessment of how easily the data are usable without human effort.**     
 Select 1 if extensive effort is required to make data usable, select 2 if some effort is required and select 3 if little to no effort is required. Data may be in a machine-readable format like an .xls spreadsheet. But they might contain unstructured information (like notes randomly written in a column). Such data often has to be cleaned to become usable. Tell us the effort it takes for you to use the data. Base your assessment on the question whether the data are fit for your use cases. Document any relevant feedback on usability in the comment section.
 
+
+* **B9.Veuillez fournir une évaluation de la facilité avec laquelle les données sont utilisables sans effort humain.**
+Sélectionnez 1 si un effort important est nécessaire pour rendre les données utilisables, sélectionnez 2 si des efforts sont requis et sélectionnez 3 si peu ou aucun effort n'est requis. Les données peuvent être dans un format lisible par machine comme une feuille de calcul .xls. Mais ils peuvent contenir des informations non structurées (comme des notes écrites au hasard dans une colonne). Ces données doivent souvent être nettoyées pour devenir utilisables. Dites-nous l'effort qu'il vous faut pour utiliser les données. Basez votre évaluation sur la question de savoir si les données sont adaptées à vos cas d'utilisation. Documentez les commentaires pertinents sur la convivialité dans la section des commentaires.
+
+
 **Commenting on a submission** 
 
 The Index allows only one submission per one dataset. However, you can still help by commenting on a current submission and propose changes by creating a new topic in our www.discuss.okfn.org forum. Leaving detailed notes in the comment field supports the review process, too.
+
 
 ### Here are some tips for leaving helpful comments:
 
