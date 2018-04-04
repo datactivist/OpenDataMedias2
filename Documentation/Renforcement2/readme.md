@@ -18,7 +18,7 @@ Elle a réuni 8 participant·e·s :
 * Fabienne Rafidiharinirina (Madagascar) ;
 * Amadou Sy (Mauritanie).
 
-Le seconde demi-groupe se réunira également à Dakar du lundi 23 avril au mercredi 2 mai 2018.
+Le second demi-groupe se réunira également à Dakar du lundi 23 avril au mercredi 2 mai 2018.
 
 ## Programme
 - wip -
