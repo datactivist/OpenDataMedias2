@@ -1,9 +1,9 @@
 ![](open_data_medias_cfijgt2.png)
 
 # Session de renforcement 2
-Cette seconde session de renforcement de compétences du programme [Open Data Média](http://www.cfi.fr/fr/projet/opendata-medias-2) 2 de CFI Médias vise à outiller les participant·e·s en outils performants d'extraction, traitement et datavisualisation. En pratique, ils seront initié·e·s aux fondaemntaux du code par un apprentissage général de Python et introduit aux bases de la programme orientée vers la manipulation de données avec R.
+Cette seconde session de renforcement de compétences du programme [Open Data Média 2](http://www.cfi.fr/fr/projet/opendata-medias-2)  de CFI Médias vise à offrir aux participant·e·s une première approche d'outils performants d'extraction, traitement et datavisualisation. En pratique, ils seront initié·e·s aux fondaemntaux du code par un apprentissage général de Python et introduit aux bases de la manipulation programmatique de données avec R.
 
-Cette session est conçue et animée par Sylvain Lapoix (datajournaliste et formateur) au nom de Datactivist.
+Cette session est conçue et animée pour [CFI Médias](http://www.cfi.fr] par [Sylvain Lapoix](https://twitter.com/SylvainLapoix) (datajournaliste et formateur) au nom de [Datactivist](http://datactivist.coop/).
 
 ## Organisation
 Une première session s'est tenue à Dakar du lundi 19 au mercredi 28 mars 2018.
