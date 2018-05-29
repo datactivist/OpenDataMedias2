@@ -1,0 +1,198 @@
+# Mon premier script R
+# Partie I: les bases
+
+
+# Faire la somme de 20 et 365 et stocker dans une variable z
+z = 20 + 365
+
+calculer la longueur d'un vecteur :
+length()
+
+L'environnement de programmation propose de l'autocomplétion.
+length
+
+# 2 vecteur de taille 2 avec des chiffres qu'on va additionner et 
+# mettre dans une variable vec
+b = c(2, 3)
+k = c(12, 5)
+vec = k + b # Par defaut, R fait la somme element par element
+
+# Creer une matrice de taille 4x2 (4 lignes et 2 colonnes)
+## a:b sequence de a a b avec a < b
+## exemple 1:4 ca va donner c(1, 2, 3, 4)
+## aussi utiliser seq (equivalent a range en python) seq(3) == c(1, 2, 3)
+a = matrix(1:8, ncol = 2)
+a
+
+# Une matrice 2x3 avec des chaines de caracteres
+v = c("age", "poids", "nom", "fonction", "structure", "adresse")
+m = matrix(v, nrow = 2, ncol = 3)
+m
+
+# selectionner des elements dans un vecteur et un matrice
+m[2, 2] # element en ligne 2 et colonne 2
+m[2, 1] # element en ligne 2 et colonne 1
+x = 1:8
+x[1] # premier element
+v[6]
+
+
+# Mini quizz
+# Etape1: Faire un vecteur de taille 3 qui contient des chiffres
+# Etape2: selectionner l'element 2 et appeler le y
+# Etape3: Rajouter 20 a y et stocker dans z
+v = c(4, 7, 5)
+y = v[2]
+z = y + 20
+z
+
+# Liste
+l = list(1, "B", 10)
+l
+
+# creer une liste de 4 elements
+# a c'est l'element 1 et il contient un vecteur numerique de taille 5
+# b c'est une matrice de taile 2x2 de chaine de caractere
+# c contient l'element 1, 4 du vecteur a
+# d contient l'element en ligne 2 et colonne 1 de la matrice b
+# afficher l'element d
+a = c(5, 3, 2, 4, 1)
+v = c("k", "r", "u", "s")
+b = matrix(v, nrow = 2)
+c = c(a[1], a[4]) ## alternatif
+c = a[c(1, 4)]
+d = b[2, 1]
+f = list(a, b, c, d)
+f
+
+# Mon second script R
+# Manipulation data.frame
+pays = c("Madagascar", "Cote d'Ivoire", "Cameroun", 
+         "Mauritanie", "France", "Cameroun", "Guinee", 
+         "Togo", "Guinee", "Mali")
+pop = c(24, 24, 24, 4, 67, 24, 12, 7, 12, 16)
+demo = data.frame(pays, pop)
+View(demo) ## voir la table avec Rstudio
+
+# Choix des colonnes
+demo$pays
+demo$pop
+
+# La ligne 2
+demo[2, ]
+demo[8, 1] ## index colonne
+demo[8, "pays"] ## nom de colonne
+names(demo)
+
+## Quizz: Population Mauritanie
+demo[4, 2]
+
+### Manip avec dplyr (tidyverse)
+library(dplyr)
+
+# choix de colonne
+select(demo, pop)
+select(demo, pays)
+
+# choix de ligne
+mrt = slice(demo, 4)
+select(mrt, pop)
+
+# Population Mali en utilisant select/slice
+ma = slice(demo, 10)
+select(ma, pop)
+
+# Je sais pas l'index de la Guinee dans ma table et je veux choisir 
+# la pop et le pays pour la Guinee
+# On utilise les operateurs de comparaison ==, >, <, >=, <=, %in%
+filter(demo, pays == "Guinee")
+
+# Selectionner les observations dont la population est superieure a 15 millions d'habitants
+# Sur cette nouvelle table, selectionner la 3eme ligne et la colonne population
+bdd = filter(demo, pop > 15)
+bdd = select(bdd, pop)
+bdd = slice(bdd, 3)
+bdd
+
+## pipes %>%
+bonjour <- function(x) paste0("Bonjour ", x)
+majuscule <- function(x) toupper(x)
+"Fode" %>% majuscule() %>% bonjour()
+bonjour(majuscule("Fode"))
+
+bonjour("Fode")
+"Fode" %>%  bonjour()
+
+filter(demo, pop > 15)
+demo %>% filter(pop > 15)
+
+bdd = demo %>% 
+  filter(pop > 15) %>% 
+  select(pop) %>%
+  slice(3)
+
+
+## Transformer cette manip en utilisant le pipe
+bdd = select(demo, pays)
+bdd = slice(bdd, 5)
+bdd
+
+demo %>% 
+  select(pays) %>% 
+  slice(5)
+
+## 
+nrow(demo)
+
+## Observation unique
+demo1 = distinct(demo)
+
+## Rajouter une colonne a la table
+## On va rajouter la region du continent ou se trouve le pays (Ouest, Centre, Sud, Nord)
+## mutate permet de rajouter une variable a la base
+## ici mutate rajoute le vecteur vec a la table demo1 et on le nomme region
+vec = c("Sud", "Ouest", "Centre", "Ouest", "Nord", "Ouest", "Ouest", "Ouest")
+demo1 = mutate(demo1, region = vec)
+
+## Maintenant que vous savez utiliser mutate
+## Rajouter une colonne qui s'appelle iso3 avec les codes iso3 des differents pays
+## sachant que pour nos pays, c'est respectivement mdg, civ, cmr, mrt, fra, gin, tgo, mli
+vec = c("mdg", "civ", "cmr", "mrt", "fra", "gin", "tgo", "mli")
+demo1 = mutate(demo1, iso3 = vec)
+demo1
+
+## Creer une table de 4 lignes avec deux colonnes
+## colonne 1: animal et colonne 2: poids
+## choisissez 4 animaux et avec poids respectif
+espece = data.frame(animal = c("Chien", "Chat", "Rat", "Souris"),
+                    poids = c(10, 6, 1, 2))
+espece
+
+
+## Avec votre table selectionner la ligne 2
+slice(espece, 2)
+
+## Sur la meme table selectionner le colonne animal
+select(espece, animal)
+
+## Avec votre table, selectionner l'animal le plus lourd
+filter(espece, poids == max(poids))
+
+## rajouter une variable a la table qui donne la taille de l'animal
+v = c("chatain", "blanc", "noir", "gris")
+espece = mutate(espece, couleur = v)
+espece
+
+# On veut calculer la population totale par region
+demo_grp = group_by(demo1, region)
+summarize(demo_grp, poptotal = sum(pop))
+
+# 
+demo_grp = group_by(demo1, region)
+summarize(demo_grp, popmax = max(pop))
+
+# 
+demo1 %>% 
+  group_by(region) %>% 
+  summarize(popmax = max(pop))
+
